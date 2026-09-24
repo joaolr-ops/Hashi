@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+body{
+    background-color: #0b0b0b;
+    
+}
+
+main section h1{
+    font-size: 54.5px;
+    font-family: "Montserrat", sans-serif;
+}
+header{
+    height: 117px;
+    display: flex;
+    align-items: center;
+    font-family: "open-sans", sans-serif;
+    
+    
+}
+
+.inicio{
+    margin-left: 142px;
+    font-size: 23px;
+    font-variant: bold;
+    color: #e10600;
+    border-bottom: 1px solid #e10600;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    
+
+}
+.cardapios{
+    margin-left: 100px;
+    font-size: 23px;
+
+}
+.cardapios:hover{
+    color: #e10600;
+    border-bottom: 1px solid #e10600;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.promocoes{
+    margin-left: 100px;
+    font-size: 23px;
+
+}
+.promocoes:hover{
+    color: #e10600;
+    border-bottom: 1px solid #e10600;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.ajuda{
+    margin-left: 100px;
+    font-size: 23px;
+
+}
+.ajuda:hover{
+    color: #e10600;
+    border-bottom: 1px solid #e10600;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.entregador{
+    margin-left: 100px;
+    font-size: 23px;
+
+}
+.entregador:hover{
+    color: #e10600;
+    border-bottom: 1px solid #e10600;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.lupa{
+    margin-left: 303px;
+    width: 40px;
+    height: 40px;
+}
+
+.conta-buttom{
+    margin-left: 20px;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    border: 2px solid #FFFFFF;
+    border-radius: 36px;
+    
+    align-items: center;
+    justify-content: center;
+}
+
+.montserrat{
+    font-family: "Montserrat", sans-serif;
+}
+
+.prato-sushi{
+    width: 943px;
+    height: 629px;
+}
+
+.hashi-header{
+    display: block;
+    width: 110px;
+    height: 94px;
+    margin-top: 19px;
+    margin-left: 20px;
+
+}
+
+.hashi-header-logo{
+    display: flex;
+    width: 113px;
+    height: 34px;
+}
